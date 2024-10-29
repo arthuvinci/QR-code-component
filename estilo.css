@@ -1,0 +1,39 @@
+body{
+    background-color: hsl(212, 45%, 89%); 
+    justify-content: center;          
+    display: flex;
+    align-items: center;
+    
+}
+h1{
+    font-family: Outfit;
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+    font-size:20px;
+    
+
+
+}
+img{border-radius: 15px;
+
+}
+
+.texto{
+    text-align: center;
+    font-size: 15px;
+    font-family: Outfit;
+    color: hsl(216, 15%, 48%);
+   
+ 
+
+}
+div{ background-color: white;
+width: fit-content;
+padding-bottom: 20px;
+padding-left:15px ;
+padding-right: 15px;
+border-radius: 15px;
+position: relative;
+top: 200px;
+box-shadow:0px 4px 20px rgba(0, 0, 0, 0.1);
+}
